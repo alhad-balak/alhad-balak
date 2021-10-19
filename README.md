@@ -1,7 +1,7 @@
 <p align="centre">
 <h1 align="center">Namaste <img src="https://c.tenor.com/9I3-CRuCdIoAAAAi/%D0%B0%D0%BC%D0%B8%D0%BD%D1%8C.gif" width="30px"> I am <a href="https://www.linkedin.com/in/abhinav-raj07/">Abhinav</a></h1></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23111791&size=30&centre=true&lines=I'm+a+Front+End+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23111791&size=30&hcentre=true&lines=I'm+a+Front+End+Web+Developer)](https://git.io/typing-svg)
 
 <!-- <h3 align="center">Software Engineer | Photograher</h3> -->
 <p align="center">
