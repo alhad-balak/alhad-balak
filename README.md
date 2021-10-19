@@ -1,8 +1,7 @@
 <p align="centre">
 <h1 align="center">Namaste!<img src="https://c.tenor.com/9I3-CRuCdIoAAAAi/%D0%B0%D0%BC%D0%B8%D0%BD%D1%8C.gif" width="30px">  I am <a href="https://www.linkedin.com/in/abhinav-raj07/">Abhinav</a></h1></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&centre=true&size=30&color=%23111791&lines=An+Engineering+Student;A+Front-End+Web+Developer;Photographer+and+Writter)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&centre=true&size=30&color=%23111791&lines=An+Engineering+Student;A+Front-End+Web+Developer;Photographer+&+Writter)](https://git.io/typing-svg)
 
 <!-- <a align="centre" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&color=%23181B6B&font=Architects+Daughter&lines=Engineering+Student+at+IIT(BHU)%2C+Varanasi...%20|%20Front-End+Web+Developer%20|%20Writter%20|%20Photograper&size=20">Engineering</a> -->
 
