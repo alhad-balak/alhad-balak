@@ -40,7 +40,7 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=alhad-balak&theme=github-light&hide_border=true&area=true)
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alhad-balak&theme=gruvbox" alt="alhad-balak"  /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alhad-balak&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="alhad-balak" /></p><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alhad-balak&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="alhad-balak" /></p><br><br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alhad-balak&show_icons=true&locale=en&theme=gruvbox" alt="alhad-balak" width="410" /></p>
 <br><br><br><br><br>
  -->
