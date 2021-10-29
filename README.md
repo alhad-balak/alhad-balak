@@ -26,25 +26,37 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alhad-balak&label=PROFILE+VIEWS&color=blue&style=plastic" alt="alhad-balak"/> </p>
+
+
 <hr>
+
+<!--
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alhad-balak&theme=monokai&column=7&no-frame=true&no-bg=true">
+    <br>
+  </a>
+</p>
+-->
+
 <br>
 <p align="centre">
 <h2> Abhinav's GitHub Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alhad-balak&show_icons=true&locale=en&layout=compact" alt="alhad-balak" height="300" width="400"  /></p>
-<p>
-                                
-                                  
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alhad-balak&show_icons=true&locale=en&layout=compact" alt="alhad-balak" height="300" width="400"  />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alhad-balak&show_icons=true&locale=en" alt="alhad-balak"  height="300" width="400" /></p>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=alhad-balak&theme=github-light&hide_border=true&area=true)
+
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alhad-balak&theme=gruvbox" alt="alhad-balak"  /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alhad-balak&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="alhad-balak" /></p><br><br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alhad-balak&show_icons=true&locale=en&theme=gruvbox" alt="alhad-balak" width="410" /></p>
 <br><br><br><br><br>
  -->
+ 
 <!-- <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git's Trophies</p>
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox"/> -->
+
+
 </p>
