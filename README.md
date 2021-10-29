@@ -40,11 +40,11 @@
 -->
 
 <br>
-<p align="centre">
+
 <h2> Abhinav's GitHub Stats</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alhad-balak&show_icons=true&locale=en&layout=compact" alt="alhad-balak" height="300" width="400"  />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alhad-balak&show_icons=true&locale=en" alt="alhad-balak"  height="300" width="400" /></p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alhad-balak&show_icons=true&locale=en" alt="alhad-balak"  height="300" width="400" />
+<br>
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=alhad-balak&theme=github-light&hide_border=true&area=true)
 
 
