@@ -19,7 +19,7 @@
 
 <p align="center">
   <em>
-    I am a Front End Web Developer who is very enthusiastic about learning and exploring new technologies. I'm always looking for innovative solutions that would be useful for normal people or developer communities. Pursing a Bachelor of Technology in Metallurgical Engineering from Indian Institute of Technology (Banaras Hindu University) Varanasi. My hobby is Photography and writing as I love to capture the moments either in pictures or words and relishing those memories in the future; Checkout my Pages for my work. I believe to write a program that can be understood and improved, not a program that makes circuits work only.
+    I am a Full Stack Web Developer who is very enthusiastic about learning and exploring new technologies. I'm always looking for innovative solutions that would be useful for normal people or developer communities. Pursing a Bachelor of Technology in Metallurgical Engineering from Indian Institute of Technology (Banaras Hindu University), Varanasi. My hobby is Photography and writing as I love to capture the moments either in pictures or words and relishing those memories in the future; Checkout my Pages for my work. I believe to write a program that can be understood and improved, not a program that makes circuits work only.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Let's Learn & Grow together!!</i></b>
