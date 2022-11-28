@@ -1,7 +1,7 @@
 <p align="centre">
 <h1 align="center">Namaste!<img src="https://c.tenor.com/9I3-CRuCdIoAAAAi/%D0%B0%D0%BC%D0%B8%D0%BD%D1%8C.gif" width="30px">  I am <a href="https://www.linkedin.com/in/abhinav-raj07/">Abhinav</a></h1></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&centre=true&size=30&color=%23111791&lines=An+Engineering+Student;A+Front-End+Web+Developer;Photographer+and+Writter)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&centre=true&size=30&color=%23111791&lines=An+Engineering+Student;A+Front-End+Web+Developer;Photographer+and+Writter)](https://git.io/typing-svg) -->
 
 <!-- <a align="centre" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&color=%23181B6B&font=Architects+Daughter&lines=Engineering+Student+at+IIT(BHU)%2C+Varanasi...%20|%20Front-End+Web+Developer%20|%20Writter%20|%20Photograper&size=20">Engineering</a> -->
 
@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/abhinav-raj07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/abhinav.raj07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
-<a href="https://www.instagram.com/alhad_balak/"><img align="center" src="https://cdn.freebiesupply.com/images/large/2x/instagram-icon-white-on-black-circle.png" alt="@alhad_balak" height="30" width="40" /></a>
+<a href="https://www.instagram.com/alhad_balak/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="@alhad_balak" height="30" width="30" /></a>
 <a href="https://twitter.com/alhad_balak" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/121/121503.png" alt="@alhad_balak" height="30" width="30" /></a>
 <a href = "mailto: abhinav.kgupta.met19@iitbhu.ac.in"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
@@ -41,12 +41,13 @@
 
 <br>
 
-<h2> Abhinav's GitHub Stats</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alhad-balak&show_icons=true&locale=en&layout=compact" alt="alhad-balak" height="300" width="400"  />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alhad-balak&show_icons=true&locale=en" alt="alhad-balak"  height="300" width="400" />
-<br>
+<!-- <h2> Abhinav's GitHub Stats</h2> -->
+<div>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alhad-balak&show_icons=true&locale=en&layout=compact" alt="alhad-balak" height="250" width="300" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alhad-balak&show_icons=true&locale=en" alt="alhad-balak"  height="450" width="600" />
+</div>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=alhad-balak&theme=github-light&hide_border=true&area=true)
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=alhad-balak&theme=github-light&hide_border=true&area=true) -->
 
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alhad-balak&theme=gruvbox" alt="alhad-balak"  /></p>
