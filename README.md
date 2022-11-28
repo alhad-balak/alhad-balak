@@ -37,11 +37,6 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhad-balak&layout=compact&theme=merko)](https://github.com/alhad-balak/github-readme-stats)
 
- 
-<Br>
-<hr>
-<Br>
-
 
 <!--
 <p align="center">
