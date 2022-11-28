@@ -25,10 +25,23 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Let's Learn & Grow together!!</i></b>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alhad-balak&label=PROFILE+VIEWS&color=blue&style=plastic" alt="alhad-balak"/> </p>
-
-
 <hr>
+
+<Br>
+<h1>Activity Stats! </h1>
+
+  
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=alhad-balak&label=PROFILE+VIEWS&color=blue&style=plastic" alt="alhad-balak"/> </p>
+  
+[![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=alhad-balak&show_icons=true&theme=merko)](https://github.com/alhad-balak/github-readme-stats) 
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhad-balak&layout=compact&theme=merko)](https://github.com/alhad-balak/github-readme-stats)
+
+ 
+<Br>
+<hr>
+<Br>
+
 
 <!--
 <p align="center">
@@ -42,10 +55,10 @@
 <br>
 
 <!-- <h2> Abhinav's GitHub Stats</h2> -->
-<div>
+<!-- <div> -->
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alhad-balak&show_icons=true&locale=en&layout=compact" alt="alhad-balak" height="250" width="300" /> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alhad-balak&show_icons=true&locale=en" alt="alhad-balak"  height="450" width="600" />
-</div>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alhad-balak&show_icons=true&locale=en" alt="alhad-balak"  height="450" width="600" /> -->
+<!-- </div> -->
 
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=alhad-balak&theme=github-light&hide_border=true&area=true) -->
 
