@@ -1,72 +1,79 @@
-<p align="centre">
-<h1 align="center">Namaste!<img src="https://c.tenor.com/9I3-CRuCdIoAAAAi/%D0%B0%D0%BC%D0%B8%D0%BD%D1%8C.gif" width="30px">  I am <a href="https://www.linkedin.com/in/abhinav-raj07/">Abhinav</a></h1></p>
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&centre=true&size=30&color=%23111791&lines=An+Engineering+Student;A+Front-End+Web+Developer;Photographer+and+Writter)](https://git.io/typing-svg) -->
-
-<!-- <a align="centre" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&color=%23181B6B&font=Architects+Daughter&lines=Engineering+Student+at+IIT(BHU)%2C+Varanasi...%20|%20Front-End+Web+Developer%20|%20Writter%20|%20Photograper&size=20">Engineering</a> -->
-
-<!-- <h3 align="center">Software Engineer | Photograher</h3> -->
 <p align="center">
-<a href="https://www.linkedin.com/in/abhinav-raj07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abhinav.raj07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
-<a href="https://www.instagram.com/alhad_balak/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="@alhad_balak" height="30" width="30" /></a>
-<a href="https://twitter.com/alhad_balak" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/121/121503.png" alt="@alhad_balak" height="30" width="30" /></a>
-<a href = "mailto: abhinav.kgupta.met19@iitbhu.ac.in"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
-<!-- <a href="-----------------" target="blank"><img align="center" src="https://cdn.freebiesupply.com/images/large/2x/instagram-icon-white-on-black-circle.png" alt="@----------------" height="30" width="40" /></a> -->
-<!-- <a href="---------------" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a> -->
-<!-- <a href="-------------" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a> -->
+
+
+<h1 align="center">Namaste, I am <a href="https://www.linkedin.com/in/abhinav-raj07/">Abhinav!</a> 🙏🏼</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="center">
-  <em>
-    I am a Full Stack Web Developer who is very enthusiastic about learning and exploring new technologies. I'm always looking for innovative solutions that would be useful for normal people or developer communities. Pursing a Bachelor of Technology in Metallurgical Engineering from Indian Institute of Technology (Banaras Hindu University), Varanasi. My hobby is Photography and writing as I love to capture the moments either in pictures or words and relishing those memories in the future; Checkout my Pages for my work. I believe to write a program that can be understood and improved, not a program that makes circuits work only.
-  </em> 
-  <br>
+  <a href="https://www.linkedin.com/in/abhinav-raj07/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/abhinav.raj07/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/alhad_balak/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/alhad_balak" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:abhinav.iit23@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Let's Learn & Grow together!!</i></b>
 </p>
 
-<hr>
+---
 
-<Br>
-<h1>Activity Stats! </h1>
+### 👨🏼‍💻 Software Engineer | Full-Stack Developer | Problem Solver
 
-  
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=alhad-balak&label=PROFILE+VIEWS&color=blue&style=plastic" alt="alhad-balak"/> </p>
-  
-[![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=alhad-balak&show_icons=true&theme=merko)](https://github.com/alhad-balak/github-readme-stats) 
-<br>
+
+Results-driven Full Stack Developer passionate about building robust and scalable applications.  I thrive in Agile environments and enjoy tackling complex challenges.  My focus is on delivering high-quality solutions and exceeding expectations.
+
+🔹 Passionate about **backend development**, **system design**, and **scalable architectures**.  
+🔹 Experienced in **Java (Spring Boot), SQL Server, React.js, C++, C#, Node.js**, and **microservices**.  
+🔹 Strong problem-solving background with expertise in **competitive programming**.  
+🔹 Enthusiastic about **API development, distributed systems, and cloud technologies**.  
+🔹 Contributor to open-source projects and tech communities.  
+
+---
+
+### 🚀 Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/NoSQL-0078D7?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Kafka-292929?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+
+### 🏆 Awards & Achievements
+
+* Value Champion Award at PharmEasy.
+* Top rankings in online hackathons and coding challenges.
+
+---
+
+### 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhad-balak&layout=compact&theme=merko)](https://github.com/alhad-balak/github-readme-stats)
 
+---
 
-<!--
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alhad-balak&theme=monokai&column=7&no-frame=true&no-bg=true">
-    <br>
-  </a>
-</p>
--->
+### 📫 Let's Connect!
 
-<br>
-
-<!-- <h2> Abhinav's GitHub Stats</h2> -->
-<!-- <div> -->
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alhad-balak&show_icons=true&locale=en&layout=compact" alt="alhad-balak" height="250" width="300" /> -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alhad-balak&show_icons=true&locale=en" alt="alhad-balak"  height="450" width="600" /> -->
-<!-- </div> -->
-
-<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=alhad-balak&theme=github-light&hide_border=true&area=true) -->
-
-
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alhad-balak&theme=gruvbox" alt="alhad-balak"  /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alhad-balak&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="alhad-balak" /></p><br><br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alhad-balak&show_icons=true&locale=en&theme=gruvbox" alt="alhad-balak" width="410" /></p>
-<br><br><br><br><br>
- -->
- 
-<!-- <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git's Trophies</p>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox"/> -->
-
-
-</p>
+I'm always open to discussing new opportunities and collaborations.  Feel free to connect!
